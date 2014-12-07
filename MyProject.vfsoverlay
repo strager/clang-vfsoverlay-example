@@ -1,0 +1,16 @@
+{
+    "version": 0,
+    "roots": [
+        {
+            "name": "@PWD@/MyProject",
+            "type": "directory",
+            "contents": [
+                {
+                    "name": "MyHeader.h",
+                    "type": "file",
+                    "external-contents": "include/MyHeader.h"
+                }
+            ]
+        }
+    ]
+}
